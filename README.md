@@ -4,4 +4,4 @@
 
 ## Wiki
 
-[Ludum Dare](#ludumdare)
+[Ludum Dare](wiki/ludumdare.md)
