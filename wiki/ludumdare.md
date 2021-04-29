@@ -7,7 +7,7 @@
 
 LD# | Name | Overall | Fun | Innovation | Theme | Graphics | Audio | Humor | Mood|Theme
 --- |----|---------|-----|------------|-------|----------|-------|-------|-----|-----
-LD48|[The Adventurer Guild](https://ldjam.com/events/ludum-dare/48/the-adventurer-guild)<br>(3.864|-<br>-|-<br>(-)|-<br>(-)|-<br>(-)|-<br>(-)|na|-<br>(-)|-<br>(-)|Deeper And Deeper
+LD48|[The Adventurer Guild](https://ldjam.com/events/ludum-dare/48/the-adventurer-guild)<br>(3.864)|-<br>-|-<br>(-)|-<br>(-)|-<br>(-)|-<br>(-)|na|-<br>(-)|-<br>(-)|Deeper And Deeper
 LD47|[Eleven](https://ldjam.com/events/ludum-dare/47/eleven)<br>(3.206)|1022<br>(3.353)|1094<br>(3.088)|979<br>(3.176)|400<br>(3.956)|1254<br>(3.0)|na|1112<br>(2.207)|1190<br>(3.0)|Stuck In A Loop
 LD46|[Feed The Machine](https://ldjam.com/events/ludum-dare/46/$198659)<br>(4.959)|1475<br>(3.381)|1692<br>(3.095)|806<br>(3.488)|499<br>(4.012)|1788<br>(3.167)|na|1262<br>(2.806)|1032<br>(3.488)|Keep It Alive
 LD45|[From Nothing To Mine](https://ldjam.com/events/ludum-dare/45/from-nothing-to-mine)<br>(2.613)  |554<br>(3.457)|585<br>(3.223)|742<br>(2.974)|241<br>(3.755)|626<br>(3.426)|na|703<br>(2.411)|869<br>(2.913)|Start With Nothing
