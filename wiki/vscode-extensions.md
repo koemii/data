@@ -13,7 +13,6 @@ Color Theme: Github Dark Dimmed
 - Markdown All in One
 - Markdown Preview Enhanced
 - Markdown Preview Github Styling
-- MonokaiPlus
 - multi-command
 - Peacock
 - Pylance
