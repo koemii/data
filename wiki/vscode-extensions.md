@@ -2,6 +2,7 @@ This is a list of all the extensions that I like to use for whatever reason.
 
 ## VSCode Exentions
 
+Color Theme: Github Dark Dimmed
 - AutoHotkey
 - c-family Documentation Commments
 - C#
